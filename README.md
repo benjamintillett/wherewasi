@@ -6,13 +6,14 @@ Where was I
 A simple bookmark manager written in in ruby. A first introduction to databases using datamapper and postgres. Also took my first steps in intergration testing using cucumber.
 
 The app invlolved using many new concepts and skills. Including:
+----------------------------------------------------------------
 > *	 persisting users and bookmarks in the database.
 > *  One to many relationships between users and bookmars. 
 > *  Many to many relationships tags.  
 > *  User authentication and tracking with Bcrypt and sessions
 
 
-[Click here to check]() it out online
+[Click here](http://warm-sands-2449.herokuapp.com/) to check it out online
 
 ![Screenshot of game](screenshot.png)
 
