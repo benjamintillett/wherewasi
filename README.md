@@ -1,12 +1,12 @@
 
 Where was I
-====================
+===========
 
 
 A simple bookmark manager written in in ruby. A first introduction to databases using datamapper and postgres. Also took my first steps in intergration testing using cucumber.
 
-The app invlolved using many new concepts and skills. Including:
-----------------------------------------------------------------
+####The app involved using many new concepts and skills including:
+
 > *	 persisting users and bookmarks in the database.
 > *  One to many relationships between users and bookmars. 
 > *  Many to many relationships tags.  
@@ -28,6 +28,7 @@ Skills learnt/used
 > * rspec
 > * capybara
 > * cucumber
+
 
 How to use
 ----------
